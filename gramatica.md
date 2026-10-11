@@ -25,7 +25,7 @@ A Neo Latino é uma **língua auxiliar internacional**: feita para ser aprendida
 3. **Vocabulário de base latina.** A raiz latina ou pan-românica é a preferência. Outra origem é aceita quando for:
    - **mais lógica:** mais descritiva, regular ou adequada ao sistema da língua;
    - **muito popular:** internacionalmente difundida (ex.: `komputero`).
-4. **Teclado ASCII.** Escreve-se com qualquer teclado, sem acentos nem letras especiais (a reavaliar na [P12](decisoes.md)).
+4. **Teclado ASCII.** Escreve-se com qualquer teclado, sem acentos nem letras especiais (confirmado na [P12](decisoes.md)).
 
 ### Posição entre as línguas planejadas
 
@@ -87,6 +87,7 @@ Em resumo, a Neo Latino junta **a gramática esquemática do esperanto** com **o
 - As letras **i** e **u** são sempre vogais plenas e formam sílaba própria: `vidia` = vi-**di**-a, `dio` = **di**-o, `blua` = **blu**-a.
 - Quando se quer a semivogal, escreve-se **y** ou **w**: `sonyo` = **so**-nyo, `kwando` = **kwan**-do (quando), `awdi` = **aw**-di.
 - Os sons "nh" e "lh" do português não são fonemas próprios. Eles são aproximados pelas sequências **ny** e **ly**, lidas letra por letra: `sonyo` (sonho), `filyo` (filho).
+- A sequência **yi** é normal e aparece quando uma raiz em `y` vira verbo: `banyo` → `banyi` (banhar), `sonyo` → `sonyi` (sonhar). Depois de `n` e `l`, soa como "nh"/"lh" + i: `banyi` = "banhi", `filyi` = "filhi". Depois de outras consoantes, o `y` é uma semivogal leve: `grasyi` = gras-yi.
 
 ### Dígrafos
 
