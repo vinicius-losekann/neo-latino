@@ -297,6 +297,8 @@ Os artigos são invariáveis.
 | **sub** | posição abaixo ("sob", "embaixo de") | *Li libro esten sub li lito.* (O livro está embaixo da cama.) |
 | **entre** | entre | *Li parko esten entre li eskolo e li eklezyo.* |
 | **tra** | através de | *Me pasin tra li parko.* (Eu passei pelo parque.) |
+| **sen** | sem | *Li formiko laborin sen pawzo.* (A formiga trabalhou sem pausa.) |
+| **durante** | durante | *Durante li tota estivo, li sikado kantin.* (Durante o verão inteiro, a cigarra cantou.) |
 | **asta** | até (tempo e lugar) | *Me laboran asta li keno.* (Vou trabalhar até o jantar.) *Asta domane!* (Até amanhã!) |
 
 Para "perto", "longe", "dentro", "fora", "diante" e "atrás", usam-se advérbios + **de**: *proksime de li domo* (perto da casa), *ante de li domo* (diante da casa). Ver os advérbios de lugar no [vocabulário](vocabulario.md).
@@ -333,6 +335,8 @@ Preposição e artigo nunca se fundem: *de li* (do, da), *a li* (ao, à), *in li
 | **ma** | mas | oposição: *Me volen iri, ma me no posen.* (Quero ir, mas não posso.) |
 | **pro ke** | porque | introduz a causa: *Me no iran, pro ke me esten trista.* |
 | **asta ke** | até que | limite no tempo: *Le suflin asta ke le desistin.* (Ele soprou até que desistiu.) |
+| **mentre** | enquanto | simultaneidade ou contraste: *Li sikado kantin, mentre li formiko laborin.* |
+| **dunke** | então, pois, portanto | conclusão: *Kantata? Dunke ore dansu!* Para "então" no sentido de tempo, usa-se `tando`. |
 | **anke** | também | adição, antes do que reforça: *Meya filyano anke volen esti mediko.* |
 | **ia** | sim | afirmação |
 | **no** | não | negação, antes do que nega (ver [Sintaxe](#-sintaxe)) |
@@ -378,6 +382,14 @@ Palavras como "quem", "isso", "alguém", "nunca" e "tudo" são formadas por uma 
 | **-anto** quantidade | kwanto (quanto) | tanto (tanto) | alanto (alguma quantidade) | nenanto (nenhuma quantidade) | totanto (a quantidade toda) |
 
 As formas em **-a** acompanham substantivos como determinantes, antes deles: *kwa libro?* (qual livro?), *tota dio* (cada dia).
+
+**`tota`: cada, todos ou inteiro.**
+
+| Forma | Sentido | Exemplo |
+|---|---|---|
+| tota + singular | cada | *tota estivo* (todo verão, cada verão) |
+| tota + plural | todos | *tota omos* (todos os seres humanos) |
+| li tota + singular | inteiro | *durante li tota estivo* (durante o verão inteiro) |
 
 ### Proximidade: ik
 
@@ -433,6 +445,13 @@ O **no** vem imediatamente antes do que nega. Para negar a frase toda, fica ante
 
 - *Me no manjen pano.* (Eu não como pão.)
 - *Me manjen no pano.* (Não é pão o que eu como.)
+
+Os correlativos da série **nen-** já negam a frase, e por isso **não** se usa `no` junto com eles (sem dupla negação):
+
+- *Me tenin neno.* (Eu não tinha nada.)
+- *Neni venin.* (Ninguém veio.)
+- *Me vidin neni.* (Não vi ninguém.)
+- *Le nenando manjen karno.* (Ele nunca come carne.)
 
 ### Perguntas
 
@@ -505,6 +524,18 @@ O `pra-` se combina com os sufixos de gênero: `pranonano` (bisavô), `pranonino
 |---|---|---|---|---|
 | raiz + **-o** | uma coisa ou instância que tem a qualidade | bono (um bem) | belo (algo belo) | rapido (algo rápido) |
 | raiz + **-ezo** | a qualidade em si | bonezo (bondade) | belezo (beleza) | rapidezo (velocidade) |
+
+**Adjetivo → verbo:** raiz + **-i** = "tornar X". O verbo é transitivo.
+
+| Adjetivo | Verbo | Sentido |
+|---|---|---|
+| kalda (quente) | kaldi | aquecer |
+| sana (saudável) | sani | curar |
+| libera (livre) | liberi | libertar |
+| klara (claro) | klari | esclarecer |
+
+- Para "estar X", usa-se `esti` + adjetivo: *Li forno esten kalda.*
+- Para "ficar X", usa-se `deveni` + adjetivo ou o reflexivo: *Li forno devenin kalda.* = *Li forno kaldin si.*
 
 ---
 

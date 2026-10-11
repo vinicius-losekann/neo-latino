@@ -11,6 +11,12 @@ O resultado de cada decisão já está aplicado na [gramática](gramatica.md) e 
 |---|---|---|---|
 | P12 | Acentos gráficos e `y` | Reanálise futura: avaliar se vale trocar `y`/`w` por `i`/`u` contextuais com acento nas exceções (`í`/`ú`), que deixa a grafia mais românica (`kual`, `audi`). Incluir o caso `yi`, que surge quando raízes em `y` viram verbo (`sonyo` → `sonyi`) e soa estranho; por isso o lote de verbos usou `inseni` e `gani` | manter `y`/`w`, ou `i`/`u` contextuais + `í`/`ú` |
 
+### 📝 Backlog de vocabulário
+
+Palavras que faltam e ainda não têm proposta aprovada.
+
+Nenhuma no momento. "Curar" foi resolvido na P27 (`sani`).
+
 ---
 
 ## 🔎 Observações para revisão futura
@@ -20,7 +26,7 @@ Escolhas provisórias, que funcionam mas merecem ser revistas.
 | Palavra | Observação |
 |---|---|
 | `onklo` (tio/tia) | Escolhido no lugar de `tio` (tío, tio, zio), que seria mais reconhecível para lusófonos e hispanófonos. Motivo: a raiz `ti-` coincide com o correlativo `ti` ("essa pessoa"), e o feminino `tino` ficaria ambíguo. Rever se o sistema de correlativos mudar ou se a colisão se mostrar inofensiva na prática. |
-| `oro` (hora) | Em espanhol e italiano, "oro" é "ouro". Se adotado, "ouro" terá de ser `awro` (latim *aurum*). |
+| `oro` (hora) | Em espanhol e italiano, "oro" é "ouro". Por isso "ouro" passou a ser `awro` (latim *aurum*, texto 6). |
 | Raiz `port-` | `porti` (carregar) ocupa a raiz, então "porta" virou `doro` (germânico) e "porto"/"aeroporto" ficaram sem palavra. Rever se surgir uma solução românica melhor. |
 | `teo` (chá) | Parece o correlativo `te` (lá) + `-o`. Como correlativos não recebem terminações de classe nesse sentido, não há ambiguidade gramatical, mas vale observar no uso. |
 | `lasi` (deixar) | A raiz `las` coincide com o pronome `las` (elas). |
@@ -34,6 +40,8 @@ Escolhas provisórias, que funcionam mas merecem ser revistas.
 | `avokato`, `soldato` | Terminam como particípio ativo em `-ato`. Hoje não há ambiguidade, porque não existem os verbos `avoki` e `soldi`. Alternativa para advogado: `diritisto`. |
 | `odi` / `odo` (odiar / ódio) | Raiz muito curta, escolhida para evitar `odyo`/`odyi` (ver P12). |
 | `pari` × `parli` | `pari` (parecer) e `parli` (falar) diferem só pelo `l`: `paren` × `parlen`. |
+| `korti` × `kurta` | `korti` (cortar) e `kurta` (curto) são parecidos, mas as raízes são diferentes. Pela P27, `kurti` seria "encurtar". |
+| `famo` (fome) | Se um dia existir "fama", vai colidir. |
 | `doloro` × `doro` | `doloro` (dor) e `doro` (porta) são parecidos, mas as raízes são diferentes. |
 
 ---
@@ -63,3 +71,8 @@ Escolhas provisórias, que funcionam mas merecem ser revistas.
 | P20 | Orações sem sujeito | Os verbos de clima e o `esti` existencial não têm sujeito: *Pluven.* (Chove.), *Esten un libro.* (Há um livro.). É a única exceção à regra do sujeito explícito. Descartados: o sujeito vazio `to` e a paráfrase com sujeito real. Surgiu no teste de tradução (texto 4). |
 | P21 | Meio e instrumento | **per** passa a cobrir, além do agente da passiva, o meio e o instrumento: *per buso* (de ônibus), *per kulyero* (com a colher), como em latim, italiano e esperanto. `kon` continua sendo só companhia. Surgiu no teste de tradução (texto 4). |
 | P22 | Subjuntivo | O imperativo **-u** serve também de volitivo, em orações com `ke` depois de verbos de vontade, pedido ou preferência: *Me volen ke tu venu.* Não há sufixo novo. Nas outras subordinadas usa-se o tempo normal. Surgiu no teste de tradução (texto 4). |
+| P23 | "Enquanto" | Conjunção **mentre** (*mentre*, *mientras*). Descartados: `dum` (pouco transparente) e `kwando` com particípio (perde o contraste). Surgiu no teste de tradução (texto 5). |
+| P24 | Dupla negação | Não existe. Os correlativos **nen-** já negam a frase, então não levam `no`: *Me tenin neno.* (Eu não tinha nada.) A concordância negativa românica foi descartada porque criaria uma regra condicional. Surgiu no teste de tradução (texto 5). |
+| P25 | "Pois", "portanto" | Conjunção **dunke** (*dunque*, *donc*), só no sentido de conclusão. O `tando` continua sendo só temporal. Surgiu no teste de tradução (texto 5). |
+| P26 | "Todo o" × "cada" | `tota` + singular = cada (*tota estivo*); `tota` + plural = todos (*tota omos*); **li tota** + singular = inteiro (*li tota estivo*). Não foi preciso criar `intera`. Surgiu no teste de tradução (texto 5). |
+| P27 | Adjetivo → verbo | Raiz de adjetivo + **-i** = "tornar X", transitivo: `kaldi` (aquecer), `sani` (curar), `liberi` (libertar). "Estar X" = `esti` + adjetivo; "ficar X" = `deveni` + adjetivo ou reflexivo (`kaldi si`). Foi descartado o sentido "estar X", que repetiria o que `esti` + adjetivo já faz. Resolve o "curar" do backlog. Surgiu no teste de tradução (texto 6). |

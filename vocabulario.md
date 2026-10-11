@@ -148,6 +148,7 @@ Formadas com `-isto` quando há raiz na língua (ver [Afixos](gramatica.md#-afix
 | pluvo | subst. | chuva |
 | vento | subst. | vento |
 | frosto | subst. | geada/gelo |
+| nevo | subst. | neve |
 | tondro | subst. | trovão |
 | tempesto | subst. | tempestade |
 | kaldo | subst. | calor |
@@ -235,6 +236,7 @@ Formação: **ordinal + meso**, numa palavra só. De 11 em diante, o ordinal com
 | roza | rosa |
 | oranja | laranja |
 | viola | roxo/violeta |
+| awra | dourado (de `awro`, ouro) |
 
 ## 🎨 Adjetivos gerais
 
@@ -263,6 +265,7 @@ Formação: **ordinal + meso**, numa palavra só. De 11 em diante, o ordinal com
 | kompleksa | complexo |
 | kontenta | contente |
 | kurta | curto |
+| lenta | lento |
 | libera | livre |
 | longa | longo, comprido |
 | magra | magro |
@@ -294,6 +297,10 @@ Formação: **ordinal + meso**, numa palavra só. De 11 em diante, o ordinal com
 | lakto | leite |
 | butero | manteiga |
 | rizo | arroz |
+| grano | grão |
+| farino | farinha |
+| fermento | fermento |
+| ingrediento | ingrediente |
 | pasto | massa |
 | fruto | fruta |
 | legumo | legume, verdura |
@@ -333,6 +340,16 @@ Formação: **ordinal + meso**, numa palavra só. De 11 em diante, o ordinal com
 | kutelo | faca |
 | forko | garfo |
 | kulyero | colher |
+| kupo | tigela |
+| moldo | forma, molde |
+
+### Medidas
+
+| Palavra | PT-BR |
+|---|---|
+| gramo | grama |
+| grado | grau |
+| pyeso | pedaço |
 
 ## 🐾 Animais
 
@@ -360,6 +377,8 @@ Agêneros como as pessoas: o macho e a fêmea se formam com `-ano`/`-ino` (`kava
 | inseto | inseto | |
 | mosko | mosca | |
 | abelyo | abelha | |
+| formiko | formiga | (`formikejo` = formigueiro) |
+| sikado | cigarra | |
 
 ## 💡 Conceitos Abstratos
 
@@ -397,6 +416,10 @@ Agêneros como as pessoas: o macho e a fêmea se formam com `-ano`/`-ino` (`kava
 | furyo | fúria |
 | favoro | favor |
 | brilo | brilho |
+| konsilo | conselho |
+| moralo | moral (da história) |
+| famo | fome |
+| pawzo | pausa |
 
 ## 💭 Emoções
 
@@ -503,6 +526,7 @@ Vários cômodos são formados com `-ejo` ("lugar de"): `dormejo` = dormi + -ejo
 | lago | lago |
 | arbo | árvore |
 | kampo | campo |
+| awro | ouro |
 
 ## 💻 Tecnologia
 
@@ -532,6 +556,7 @@ Vários cômodos são formados com `-ejo` ("lugar de"): `dormejo` = dormi + -ejo
 | sovente | frequentemente |
 | rare | raramente |
 | subite | de repente |
+| fine | por fim, finalmente (de `fini`) |
 | permanente | permanentemente |
 | tempore | temporariamente |
 
@@ -557,6 +582,13 @@ Seguidos de `de` quando têm complemento: *proksime de li domo* (perto da casa).
 | multe | muito |
 | poke | pouco |
 
+### Modo
+
+| Palavra | PT-BR |
+|---|---|
+| bone | bem |
+| lente | devagar |
+
 ## 🏃 Verbos
 
 Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos)).
@@ -576,6 +608,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | klami | chamar |
 | komprendi | entender |
 | konkordi | concordar |
+| konsili | aconselhar |
 | konosi | conhecer |
 | konsideri | considerar |
 | kredi | crer, acreditar |
@@ -616,11 +649,13 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | deveni | tornar-se |
 | dormi | dormir |
 | esti | ser/estar |
+| kontinui | continuar |
 | kreski | crescer |
 | labori | trabalhar |
 | morti | morrer |
 | naski | nascer |
 | posi | poder |
+| sani | curar (sana + -i) |
 | teni | ter |
 | vivi | viver |
 
@@ -637,6 +672,8 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | envolvi | envolver |
 | fari | fazer |
 | fini | terminar |
+| gardi | guardar |
+| junti | juntar, acrescentar |
 | klozi | fechar |
 | komesi | começar |
 | konstrui | construir |
@@ -657,9 +694,16 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | Verbo | PT-BR |
 |---|---|
 | bevi | beber |
+| dansi | dançar |
 | gani | ganhar |
 | kanti | cantar |
+| bati | bater |
+| forni | assar (forno + -i) |
+| kaldi | aquecer (kalda + -i) |
 | koki | cozinhar |
+| korti | cortar |
+| miksi | misturar |
+| prepari | preparar |
 | kompri | comprar |
 | kosti | custar |
 | ludi | brincar/jogar |
@@ -693,6 +737,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | Verbo | PT-BR |
 |---|---|
 | brili | brilhar |
+| nevi | nevar |
 | pluvi | chover |
 | sufli | soprar |
 | venti | ventar |

@@ -112,7 +112,7 @@ Texto escrito para testar o lote de roupas, profissões e emoções.
 > — Kwa alegrezo! Meya filyano anke volen esti mediko, ma me preferen ke lo estu muzikisto.
 >
 > Ana ridin:
-> — Li muzikistos anke faren li omos sana: kon muziko, no esten tristezo.
+> — Li muzikistos anke sanen: kon muziko, no esten tristezo.
 
 **Notas:**
 - `Ana esten mediko`: profissão sem artigo, como no português. `mediko` é agênero; `medikino` só seria usado se o gênero importasse.
@@ -123,7 +123,7 @@ Texto escrito para testar o lote de roupas, profissões e emoções.
 - `Pyu bona` (melhor): a língua não tem comparativos irregulares; "melhor" é "mais bom".
 - `Kwa alegrezo!` (Que alegria!): o correlativo `kwa` serviu também como exclamação, sem regra nova.
 - `li infermistos` (as enfermeiras): forma agênera. Para marcar o feminino: `infermistinos`.
-- `faren li omos sana` (curam, lit. "tornam as pessoas sãs"): causativo com `fari` + objeto + adjetivo. A língua ainda não tem o verbo "curar".
+- `sanen` (curam): `sana` + `-i` = "tornar são" (P27, decidida no texto 6). A primeira versão usava o causativo *faren li omos sana*.
 
 **O que o teste revelou:**
 
@@ -133,6 +133,142 @@ Texto escrito para testar o lote de roupas, profissões e emoções.
 | Meio de transporte ou instrumento | "de ônibus" | `per buso` ([P21](decisoes.md)) |
 | Subjuntivo ("que ele seja") | "prefiro que ele seja músico" | volitivo em `-u`: `ke lo estu` ([P22](decisoes.md)) |
 | "Por isso" | "por isso ela pôs" | `pro to` (por causa disso), sem regra nova |
-| "Curar" | "os músicos curam" | por enquanto, o causativo `fari … sana`; falta um verbo próprio (`kuri` já é "correr") |
+| "Curar" | "os músicos curam" | `sani` (P27, no texto 6); `kuri` já é "correr" |
 
 Palavras criadas: desperti (acordar), pari (parecer), preferi (preferir), anke (também).
+
+---
+
+## 5. A Cigarra e a Formiga
+
+Fábula de Esopo, recontada para testar o clima sem sujeito (P20), o volitivo (P22) e o diálogo.
+
+**Português:**
+> Durante todo o verão, a cigarra cantava ao sol, enquanto a formiga trabalhava sem pausa, levando grãos para o formigueiro.
+>
+> — Por que você não canta comigo? — perguntou a cigarra. — O dia está bonito e há comida em toda parte.
+> — Estou guardando comida para o inverno — respondeu a formiga. — Aconselho que você faça o mesmo.
+>
+> Mas a cigarra riu e continuou a cantar.
+>
+> Quando o inverno chegou, nevava e fazia muito frio. A cigarra não tinha nada para comer e estava fraca de fome. Então foi à casa da formiga e pediu que a formiga lhe desse um pouco de comida.
+>
+> — O que você fazia no verão? — perguntou a formiga.
+> — Eu cantava, dia e noite.
+> — Cantava? Pois agora dance!
+>
+> E a formiga fechou a porta.
+>
+> **Moral:** é preciso trabalhar hoje para comer amanhã.
+
+**Neo Latino:**
+> Durante li tota estivo, li sikado estin kantata in li suno, mentre li formiko estin laborata sen pawzo, portate granos a li formikejo.
+>
+> — Pro kwo tu no kanten kon me? — demandin li sikado. — Li dio esten bela e esten manjo tote.
+> — Me esten gardata manjo para li inverno — respondin li formiko. — Me konsilen ke tu faru tomo.
+>
+> Ma li sikado ridin e kontinuin kanti.
+>
+> Kwando li inverno arivin, nevin e estin multe frido. Li sikado tenin neno para manji e estin debila pro famo. Tando le irin a li domo de li formiko e demandin ke li formiko donu a le poke manjo.
+>
+> — Kwo tu estin farata in li estivo? — demandin li formiko.
+> — Me estin kantata, die e nokte.
+> — Kantata? Dunke ore dansu!
+>
+> E li formiko klozin li doro.
+>
+> **Moralo:** On deven labori oje para manji domane.
+
+**Notas:**
+- `esten manjo tote` (há comida em toda parte) e `nevin e estin multe frido` (nevava e fazia muito frio): a P20 funcionou sem esforço.
+- `ke tu faru tomo` (que você faça o mesmo, lit. "assim") e `ke li formiko donu` (que a formiga desse): a P22 funcionou. O volitivo não marca tempo; o passado já está em `demandin`.
+- `portate granos` (levando grãos): o particípio ativo `portata` + `-e` vira advérbio e faz o papel do gerúndio. É regular e não precisa de regra nova.
+- `die e nokte` (dia e noite): `dio` e `nokto` com `-e` viram advérbios ("de dia", "de noite").
+- `demandi` serviu para "perguntar" e para "pedir", como *demander* no francês.
+- `ke li formiko donu a le`: repeti `li formiko` porque `le … a le` seria ambíguo, já que os dois animais são `le`. Em textos com dois personagens agêneros, o pronome não diferencia; é preciso repetir o nome.
+- `On deven labori` (é preciso trabalhar): o impessoal `on` + `devi` resolve o "é preciso".
+
+**O que o teste revelou:**
+
+| Lacuna | Onde apareceu | Solução |
+|---|---|---|
+| "Enquanto" | "enquanto a formiga trabalhava" | `mentre` ([P23](decisoes.md)) |
+| Dupla negação | "não tinha nada" | uma negação só: `tenin neno` ([P24](decisoes.md)) |
+| "Pois", "então" conclusivo | "Pois agora dance!" | `dunke` ([P25](decisoes.md)) |
+| "Todo o" × "cada" | "durante todo o verão" | `li tota estivo` (o verão inteiro) × `tota estivo` (cada verão) ([P26](decisoes.md)) |
+
+Palavras criadas: sikado (cigarra), formiko (formiga), formikejo (formigueiro), grano (grão), pawzo (pausa), gardi (guardar), konsili/konsilo (aconselhar/conselho), kontinui (continuar), nevo/nevi (neve/nevar), famo (fome), dansi (dançar), moralo (moral), sen (sem), durante (durante).
+
+---
+
+## 6. Receita: bolo simples
+
+Texto escrito para testar o imperativo em sequência, as quantidades, o `per` como instrumento e o vocabulário de cozinha.
+
+**Português:**
+> **Bolo simples**
+>
+> **Ingredientes:**
+> - 3 ovos
+> - 2 xícaras de farinha
+> - 1 xícara e meia de açúcar
+> - 1 xícara de leite
+> - 100 gramas de manteiga
+> - 1 colher de fermento
+> - um pouco de sal
+>
+> **Como preparar:**
+> 1. Aqueça o forno a 180 graus.
+> 2. Numa tigela, misture bem a manteiga com o açúcar.
+> 3. Acrescente os ovos, um a um, e bata bem.
+> 4. Junte a farinha e o leite pouco a pouco, mexendo sempre com uma colher.
+> 5. Por fim, acrescente o fermento e o sal e misture devagar.
+> 6. Ponha um pouco de manteiga numa forma e depois ponha a massa nela.
+> 7. Asse o bolo por 40 minutos, ou até que ele esteja dourado.
+> 8. Espere até que o bolo esteja frio antes de cortá-lo.
+>
+> Rende 10 pedaços.
+
+**Neo Latino:**
+> **Torto simpla**
+>
+> **Ingredientos:**
+> - tri ovos
+> - du tasos de farino
+> - un taso e mezo de sukro
+> - un taso de lakto
+> - sento gramos de butero
+> - un kulyero de fermento
+> - poke salo
+>
+> **Kwomo prepari:**
+> 1. Kaldu li forno a sento okdek grados.
+> 2. In un kupo, miksu bone li butero kon li sukro.
+> 3. Juntu li ovos, un a un, e batu bone.
+> 4. Juntu li farino e li lakto poke a poke, miksate totando per un kulyero.
+> 5. Fine, juntu li fermento e li salo e miksu lente.
+> 6. Metu poke butero in un moldo e pose metu li pasto in to.
+> 7. Fornu li torto durante kwardek minutos, o asta ke le esten awra.
+> 8. Esperu asta ke li torto esten frida, ante de korti le.
+>
+> Li torto donen dek pyesos.
+
+**Notas:**
+- O imperativo em `-u` funcionou bem em sequência: `kaldu`, `miksu`, `juntu`, `batu`, `metu`, `fornu`, `esperu`.
+- `miksate totando per un kulyero` (mexendo sempre com uma colher): o gerúndio adverbial em `-ate` (texto 5), o correlativo `totando` e o `per` como instrumento (P21) funcionaram juntos.
+- `un taso e mezo` (uma xícara e meia): `mezo` (meio) funciona como substantivo, sem regra nova.
+- `sento okdek grados` (180 graus): soma separada e multiplicação colada (P5).
+- `un a un`, `poke a poke` (um a um, pouco a pouco): as expressões românicas com `a` funcionaram sem regra nova.
+- `Fine` (por fim): `fini` (terminar) + `-e`.
+- `fornu` (asse): `forno` + `-i`, ou seja, "usar o forno". O substantivo virou verbo pela regra normal.
+- `li pasto` (a massa): `pasto` já cobria "massa" e serviu também para a massa de bolo.
+- `in to` (nela): para coisas, o correlativo `to` evita a ambiguidade de `le`.
+- `asta ke le esten awra`: depois de `asta ke`, o verbo fica no tempo normal, porque não é um verbo de vontade (P22).
+
+**O que o teste revelou:**
+
+| Lacuna | Onde apareceu | Solução |
+|---|---|---|
+| Adjetivo → verbo | "aqueça o forno" | raiz + `-i` = "tornar X": `kaldi` (aquecer), `sani` (curar) ([P27](decisoes.md)) |
+
+Palavras criadas: farino (farinha), fermento, ingrediento (ingrediente), gramo (grama), grado (grau), kupo (tigela), miksi (misturar), bati (bater), junti (juntar), lenta/lente (lento/devagar), moldo (forma), forni (assar), awro/awra (ouro/dourado), korti (cortar), pyeso (pedaço), prepari (preparar).
