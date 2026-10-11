@@ -60,6 +60,37 @@ Palavras agêneras; o gênero é marcado com `-ano`/`-ino` e as gerações com `
 | onklo | tio/tia | onklano (tio) | onklino (tia) |
 | primo | primo/prima | primano (primo) | primino (prima) |
 
+## 👷 Profissões
+
+Formadas com `-isto` quando há raiz na língua (ver [Afixos](gramatica.md#-afixos)). Profissões de nome pan-românico consagrado usam a raiz própria. São agêneras como as pessoas: `mediko` (médico/médica), `medikano`, `medikino`.
+
+| Palavra | PT-BR | Formação |
+|---|---|---|
+| mediko | médico | |
+| infermisto | enfermeiro | inferm- (infermiere, infirmier) + -isto |
+| dentisto | dentista | dento + -isto |
+| profesoro | professor | |
+| studento | estudante | `studato` = quem está estudando agora |
+| avokato | advogado | |
+| injenyero | engenheiro | |
+| soldato | soldado | |
+| poliso | polícia (instituição) | |
+| polisisto | policial | poliso + -isto |
+| kokisto | cozinheiro | koki + -isto |
+| panisto | padeiro | pano + -isto |
+| pexisto | pescador | pexo + -isto |
+| vendisto | vendedor | vendi + -isto |
+| servisto | garçom, atendente | servi + -isto |
+| kondukisto | motorista | konduki + -isto |
+| kampisto | agricultor | kampo + -isto (`kampano` seria lido como masculino) |
+| arto | arte | |
+| artisto | artista | arto + -isto |
+| muziko | música | |
+| muzikisto | músico | muziko + -isto |
+| kantisto | cantor | kanti + -isto |
+| programo | programa | |
+| programisto | programador | programo + -isto |
+
 ## 🫀 Corpo
 
 | Palavra | PT-BR |
@@ -85,6 +116,27 @@ Palavras agêneras; o gênero é marcado com `-ano`/`-ino` e as gerações com `
 | sango | sangue |
 | osto | osso |
 | pyelo | pele |
+
+## 👕 Roupas
+
+| Palavra | PT-BR | Observação |
+|---|---|---|
+| vesto | roupa, peça de roupa | de `vesti` (vestir) |
+| kamizo | camisa | |
+| pantalono | calça | |
+| jupo | saia | |
+| robo | vestido | |
+| jaketo | jaqueta | para "casaco", usa-se `mantelo` |
+| mantelo | casaco, capa, manto | |
+| kalsuro | sapato, calçado | `sapato` colidiria com `sapi` + `-ato` |
+| kalseto | meia | |
+| boto | bota | |
+| xapelo | chapéu | `kapelo` é cabelo |
+| ganto | luva | |
+| sinturo | cinto | |
+| botono | botão | |
+| borso | bolsa | |
+| anelo | anel | |
 
 ## ☁️ Tempo e Clima
 
@@ -346,6 +398,28 @@ Agêneros como as pessoas: o macho e a fêmea se formam com `-ano`/`-ino` (`kava
 | favoro | favor |
 | brilo | brilho |
 
+## 💭 Emoções
+
+Os verbos de sentimento estão em [Percepção e sentimento](#percepção-e-sentimento).
+
+| Palavra | Classe | PT-BR |
+|---|---|---|
+| emosyo | subst. | emoção |
+| alegra | adj. | alegre |
+| alegrezo | subst. | alegria |
+| kalma | adj. | calmo |
+| kalmo | subst. | calma |
+| pavoro | subst. | medo |
+| rabyo | subst. | raiva |
+| surprizo | subst. | surpresa |
+| vergonyo | subst. | vergonha |
+| jelozo | subst. | ciúme |
+| invido | subst. | inveja |
+| orgulyo | subst. | orgulho |
+| doloro | subst. | dor (não confundir com `doro`, porta) |
+| rido | subst. | riso |
+| odo | subst. | ódio |
+
 ## 🏡 Casa e Vida Cotidiana
 
 Vários cômodos são formados com `-ejo` ("lugar de"): `dormejo` = dormi + -ejo.
@@ -374,7 +448,6 @@ Vários cômodos são formados com `-ejo` ("lugar de"): `dormejo` = dormi + -ejo
 | vazo | vaso | |
 | forno | forno | |
 | telo | pano/tecido | |
-| mantelo | capa, manto | |
 
 ### Cotidiano
 
@@ -429,6 +502,7 @@ Vários cômodos são formados com `-ejo` ("lugar de"): `dormejo` = dormi + -ejo
 | maro | mar |
 | lago | lago |
 | arbo | árvore |
+| kampo | campo |
 
 ## 💻 Tecnologia
 
@@ -511,6 +585,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | respondi | responder |
 | sapi | saber |
 | sensi | sentir |
+| studi | estudar |
 | voli | querer |
 
 ### Percepção e sentimento
@@ -519,7 +594,15 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 |---|---|
 | ami | amar |
 | awdi | ouvir |
+| invidi | invejar |
 | miri | olhar |
+| odi | odiar |
+| plori | chorar |
+| preokupi | preocupar |
+| ridi | rir |
+| suridi | sorrir |
+| surprizi | surpreender |
+| temi | temer |
 | vidi | ver |
 
 ### Ser, ter e vida
@@ -564,6 +647,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | tiri | tirar, puxar |
 | trovi | encontrar, achar |
 | usi | usar |
+| vesti | vestir |
 
 ### Comércio e cotidiano
 
@@ -579,6 +663,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | manji | comer |
 | pagi | pagar |
 | perdi | perder |
+| servi | servir |
 | vendi | vender |
 
 ### Movimento
@@ -590,6 +675,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | entri | entrar |
 | iri | ir |
 | kamini | caminhar |
+| konduki | conduzir, dirigir |
 | kuri | correr |
 | pasi | passar |
 | resti | ficar |

@@ -27,6 +27,13 @@ Escolhas provisórias, que funcionam mas merecem ser revistas.
 | `pose` × `posi` | `pose` (depois, do prefixo `pos-`) e `posi` (poder) compartilham a raiz `pos`; derivados como `poso` ficariam ambíguos. |
 | `dirito` (direito) | Pode ser lido como `dir` (de `diri`, dizer) + `-ito` = "o que foi dito". |
 | `meso` × `mezo` | `meso` (mês) e `mezo` (meio) diferem só por s/z. Funciona pela regra fonêmica, mas é um par fácil de confundir. |
+| `robo` (vestido) | Ocupa a raiz `rob-`, então "roubar" terá de ser outra raiz (sugestão: `furti`, de furtar, furto). Base só no francês *robe* e no romeno *rochie*. |
+| `jupo` (saia) | Pouco pan-românico (francês *jupe*). Alternativa: `fusto` (romeno *fustă*). |
+| `kalsuro` (sapato) | Escolhido porque `sapato` colidiria com `sapi` + `-ato` ("o que sabe"). Menos reconhecível para lusófonos e hispanófonos. |
+| `xapelo` (chapéu) | Usa `x` para não colidir com `kapelo` (cabelo). |
+| `avokato`, `soldato` | Terminam como particípio ativo em `-ato`. Hoje não há ambiguidade, porque não existem os verbos `avoki` e `soldi`. Alternativa para advogado: `diritisto`. |
+| `odi` / `odo` (odiar / ódio) | Raiz muito curta, escolhida para evitar `odyo`/`odyi` (ver P12). |
+| `doloro` × `doro` | `doloro` (dor) e `doro` (porta) são parecidos, mas as raízes são diferentes. |
 
 ---
 
