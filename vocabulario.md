@@ -441,7 +441,7 @@ Os verbos de sentimento estão em [Percepção e sentimento](#percepção-e-sent
 | orgulyo | subst. | orgulho |
 | doloro | subst. | dor (não confundir com `doro`, porta) |
 | rido | subst. | riso |
-| odo | subst. | ódio |
+| odyo | subst. | ódio |
 
 ## 🏡 Casa e Vida Cotidiana
 
@@ -630,7 +630,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | awdi | ouvir |
 | invidi | invejar |
 | miri | olhar |
-| odi | odiar |
+| odyi | odiar |
 | pari | parecer |
 | plori | chorar |
 | preokupi | preocupar |
@@ -648,6 +648,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | desperti | acordar |
 | deveni | tornar-se |
 | dormi | dormir |
+| sonyi | sonhar |
 | esti | ser/estar |
 | kontinui | continuar |
 | kreski | crescer |
@@ -666,6 +667,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | agi | agir |
 | apri | abrir |
 | ayudi | ajudar |
+| banyi | banhar, dar banho |
 | desisti | desistir |
 | doni | dar |
 | doti | dotar |

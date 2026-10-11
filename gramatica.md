@@ -42,7 +42,7 @@ Em resumo, a Neo Latino junta **a gramática esquemática do esperanto** com **o
 
 ## 🔠 Fonologia e Ortografia
 
-- Cada letra tem **um único som fixo**.
+- Cada letra tem **um único som padrão**. Algumas variantes de sotaque são toleradas (ver [Sotaques](#sotaques)).
 - Sem letras mudas.
 - Acento tônico sempre na **penúltima sílaba**.
 
@@ -51,9 +51,9 @@ Em resumo, a Neo Latino junta **a gramática esquemática do esperanto** com **o
 | Letra | IPA | Exemplo (PT-BR) | Observação |
 |---|---|---|---|
 | a | /a/ | pá | |
-| e | /e/ | mesa | vogal média fechada |
+| e | /e/ | mesa | padrão fechado [e]; também se aceita aberto [ɛ], como em "pé" |
 | i | /i/ | lindo | |
-| o | /o/ | tolo | vogal média fechada |
+| o | /o/ | tolo | padrão fechado [o]; também se aceita aberto [ɔ], como em "pó" |
 | u | /u/ | lula | |
 
 ### Consoantes
@@ -87,7 +87,7 @@ Em resumo, a Neo Latino junta **a gramática esquemática do esperanto** com **o
 - As letras **i** e **u** são sempre vogais plenas e formam sílaba própria: `vidia` = vi-**di**-a, `dio` = **di**-o, `blua` = **blu**-a.
 - Quando se quer a semivogal, escreve-se **y** ou **w**: `sonyo` = **so**-nyo, `kwando` = **kwan**-do (quando), `awdi` = **aw**-di.
 - Os sons "nh" e "lh" do português não são fonemas próprios. Eles são aproximados pelas sequências **ny** e **ly**, lidas letra por letra: `sonyo` (sonho), `filyo` (filho).
-- A sequência **yi** é normal e aparece quando uma raiz em `y` vira verbo: `banyo` → `banyi` (banhar), `sonyo` → `sonyi` (sonhar). Depois de `n` e `l`, soa como "nh"/"lh" + i: `banyi` = "banhi", `filyi` = "filhi". Depois de outras consoantes, o `y` é uma semivogal leve: `grasyi` = gras-yi.
+- A sequência **yi** é normal e aparece quando uma raiz em `y` vira verbo: `banyo` → `banyi` (banhar), `sonyo` → `sonyi` (sonhar). Depois de `n` e `l`, soa como "nh"/"lh" + i: `banyi` = "banhi", `filyi` = "filhi". Depois de outras consoantes, o `y` quase não se ouve e o `yi` soa praticamente como `i`: `odyi` (odiar) ≈ "ódi". O `y` é mantido na escrita para mostrar que a raiz é a mesma do substantivo (`odyo`, ódio).
 
 ### Dígrafos
 
@@ -95,6 +95,26 @@ Em resumo, a Neo Latino junta **a gramática esquemática do esperanto** com **o
 |---|---|---|
 | tx | /tʃ/ | tchau |
 | dj | /dʒ/ | adjetivo |
+
+### Sotaques
+
+Cada letra tem uma **pronúncia padrão** (a das tabelas acima) e, em alguns casos, **variantes toleradas**. Isso permite que cada falante mantenha um pouco do seu sotaque sem prejudicar a compreensão.
+
+**Critério:** uma variante é tolerada quando não confunde dois sons que a língua distingue, ou seja, quando não cria duas palavras com a mesma pronúncia.
+
+| Toleradas | Exemplo |
+|---|---|
+| `e` e `o` abertos | `kafeo` como "caféo", `odyo` como "ódio" |
+| `r` vibrante, [ʁ] ou [h] | `rivo` com o "r" de "rio" |
+| vogal nasalizada antes de `m`/`n` | `kanti` como "cãnti", desde que o `n` não desapareça |
+
+| **Não** toleradas | Por quê |
+|---|---|
+| reduzir o `o` final a "u" (`gato` → "gatu") | `-o` (substantivo) e `-u` (imperativo) se confundiriam: `amo` (amor) × `amu` (ame!) |
+| reduzir o `e` final a "i" (`fine` → "fini") | `-e` (advérbio) e `-i` (infinitivo) se confundiriam: `fine` (por fim) × `fini` (terminar) |
+| `s` entre vogais como "z" | `s` e `z` se confundiriam: `meso` (mês) × `mezo` (meio) |
+
+As vogais finais carregam a classe da palavra (ver [Classes Gramaticais](#-classes-gramaticais)), por isso precisam ficar claras mesmo quando são átonas.
 
 ---
 
