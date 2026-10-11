@@ -61,10 +61,10 @@ Em resumo, a Neo Latino junta **a gramática esquemática do esperanto** com **o
 | Letra | IPA | Exemplo (PT-BR) | Observação |
 |---|---|---|---|
 | p | /p/ | pato | |
-| t | /t/ | teto | |
+| t | /t/ | teto | nunca chiado, também antes de i: `tiri` = "tiri", não "tchiri" |
 | k | /k/ | casa | |
 | b | /b/ | boca | |
-| d | /d/ | dedo | |
+| d | /d/ | dedo | nunca chiado, também antes de i: `dio` = "dio", não "djio" |
 | g | /g/ | gato | sempre duro, também antes de e/i |
 | m | /m/ | mão | |
 | n | /n/ | nuvem | |
@@ -113,6 +113,7 @@ Cada letra tem uma **pronúncia padrão** (a das tabelas acima) e, em alguns cas
 | reduzir o `o` final a "u" (`gato` → "gatu") | `-o` (substantivo) e `-u` (imperativo) se confundiriam: `amo` (amor) × `amu` (ame!) |
 | reduzir o `e` final a "i" (`fine` → "fini") | `-e` (advérbio) e `-i` (infinitivo) se confundiriam: `fine` (por fim) × `fini` (terminar) |
 | `s` entre vogais como "z" | `s` e `z` se confundiriam: `meso` (mês) × `mezo` (meio) |
+| `t` e `d` chiados antes de `i` (`tiri` → "tchiri", `dio` → "djio") | `t`/`d` e os dígrafos `tx`/`dj` se confundiriam |
 
 As vogais finais carregam a classe da palavra (ver [Classes Gramaticais](#-classes-gramaticais)), por isso precisam ficar claras mesmo quando são átonas.
 
