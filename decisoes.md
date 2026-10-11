@@ -33,6 +33,7 @@ Escolhas provisórias, que funcionam mas merecem ser revistas.
 | `xapelo` (chapéu) | Usa `x` para não colidir com `kapelo` (cabelo). |
 | `avokato`, `soldato` | Terminam como particípio ativo em `-ato`. Hoje não há ambiguidade, porque não existem os verbos `avoki` e `soldi`. Alternativa para advogado: `diritisto`. |
 | `odi` / `odo` (odiar / ódio) | Raiz muito curta, escolhida para evitar `odyo`/`odyi` (ver P12). |
+| `pari` × `parli` | `pari` (parecer) e `parli` (falar) diferem só pelo `l`: `paren` × `parlen`. |
 | `doloro` × `doro` | `doloro` (dor) e `doro` (porta) são parecidos, mas as raízes são diferentes. |
 
 ---
@@ -59,3 +60,6 @@ Escolhas provisórias, que funcionam mas merecem ser revistas.
 | P17 | "Mas" e "até" | Conjunção **ma** (mas). **asta** (até), como preposição e em *asta ke* (até que). Surgiu no teste de tradução. |
 | P18 | Nomes próprios e particípio anteposto | Nomes de pessoas e cidades mantêm a grafia original; nomes de países são adaptados + `-o` (*Brazilo*, *Portugalo*). Uma expressão com particípio pode vir no início da frase, separada por vírgula. Particípio + `-o` forma substantivo de agente (*viajato*, viajante). Surgiu no teste de tradução. |
 | P19 | Correlativos e "cem" com vogal final | Os correlativos de tempo, modo e quantidade ganham vogal final, para soar mais românicos: `-an` → **-ando** (`kwando`, `tando`, `nenando`, `totando`), `-om` → **-omo** (`kwomo`, `tomo`), `-ant` → **-anto** (`kwanto`, `tanto`). O numeral 100 passa de `sent` a **sento** (`dusento`, `trisento`), e se comporta como raiz `sent-` + `-o` (ordinal `senta`, `sentanyo`). "Dezena" e "centena" passam a `dekaro` e `sentaro` (`-aro` = grupo), no lugar de `deko` e `sento`. Atualiza a P5 e a P7. |
+| P20 | Orações sem sujeito | Os verbos de clima e o `esti` existencial não têm sujeito: *Pluven.* (Chove.), *Esten un libro.* (Há um livro.). É a única exceção à regra do sujeito explícito. Descartados: o sujeito vazio `to` e a paráfrase com sujeito real. Surgiu no teste de tradução (texto 4). |
+| P21 | Meio e instrumento | **per** passa a cobrir, além do agente da passiva, o meio e o instrumento: *per buso* (de ônibus), *per kulyero* (com a colher), como em latim, italiano e esperanto. `kon` continua sendo só companhia. Surgiu no teste de tradução (texto 4). |
+| P22 | Subjuntivo | O imperativo **-u** serve também de volitivo, em orações com `ke` depois de verbos de vontade, pedido ou preferência: *Me volen ke tu venu.* Não há sufixo novo. Nas outras subordinadas usa-se o tempo normal. Surgiu no teste de tradução (texto 4). |

@@ -164,7 +164,7 @@ A terminação da palavra indica sua classe:
 
 ## 📌 Verbos
 
-Os verbos **não flexionam por pessoa nem número**: o sujeito é sempre explícito. A lista de verbos está no [vocabulário](vocabulario.md#-verbos).
+Os verbos **não flexionam por pessoa nem número**: o sujeito é sempre explícito. A única exceção são as orações sem sujeito (ver [Orações sem sujeito](#orações-sem-sujeito)). A lista de verbos está no [vocabulário](vocabulario.md#-verbos).
 
 ### Conjugação
 
@@ -176,6 +176,25 @@ Os verbos **não flexionam por pessoa nem número**: o sujeito é sempre explíc
 | Futuro | -an | vidan | estan |
 | Imperativo | -u | vidu (veja!) | estu (seja!/esteja!) |
 | Condicional | -ia | vidia (veria) | estia (seria/estaria) |
+
+### Volitivo (subjuntivo de vontade)
+
+O sufixo **-u** também se usa em orações com `ke` que dependem de um verbo de vontade, pedido, ordem ou preferência (`voli`, `preferi`, `demandi`…). Ele faz o papel do subjuntivo românico nesses casos:
+
+- *Me volen ke tu venu.* (Quero que você venha.)
+- *Me preferen ke lo estu muzikisto.* (Prefiro que ele seja músico.)
+
+Fora desses casos, a oração com `ke` usa o tempo normal: *Me kreden ke tu esten felisa.* (Creio que você está feliz.)
+
+### Orações sem sujeito
+
+Os verbos de clima e o `esti` existencial ("haver", "existir") não têm sujeito:
+
+- *Pluven.* (Chove.) *Oje pluvin.* (Hoje choveu.)
+- *Esten un libro sobre li tablo.* (Há um livro sobre a mesa.)
+- *No esten tristezo.* (Não há tristeza.)
+
+Nos outros casos, o sujeito é obrigatório. Para um sujeito genérico, usa-se o impessoal `on`.
 
 ### Particípios
 
@@ -271,7 +290,7 @@ Os artigos são invariáveis.
 | **para** | finalidade ou objetivo | *Li pano esten para manji.* (O pão é para comer.) |
 | **kon** | companhia ("com") | *Me komesen li laboro kon tu.* (Eu começo o trabalho com você.) |
 | **in** | lugar ("em") | *Li libro esten in li domo.* (O livro está na casa.) |
-| **per** | agente da passiva ("por") | *Li domo esten konstruita per Vinicius.* |
+| **per** | agente da passiva ("por"); meio ou instrumento ("de", "com", "por meio de") | *Li domo esten konstruita per Vinicius.* *Me iren per buso.* (Vou de ônibus.) *Le manjin li supo per kulyero.* (Ele comeu a sopa com uma colher.) |
 | **pro** | causa ("por causa de") | *Me no iran pro li pluvo.* (Não irei por causa da chuva.) |
 | **de** | posse, conteúdo, matéria, assunto, origem, data ("de") | ver abaixo |
 | **sobre** | posição acima ("sobre", "em cima de") | *Li libro esten sobre li tablo.* (O livro está sobre a mesa.) |
@@ -314,6 +333,7 @@ Preposição e artigo nunca se fundem: *de li* (do, da), *a li* (ao, à), *in li
 | **ma** | mas | oposição: *Me volen iri, ma me no posen.* (Quero ir, mas não posso.) |
 | **pro ke** | porque | introduz a causa: *Me no iran, pro ke me esten trista.* |
 | **asta ke** | até que | limite no tempo: *Le suflin asta ke le desistin.* (Ele soprou até que desistiu.) |
+| **anke** | também | adição, antes do que reforça: *Meya filyano anke volen esti mediko.* |
 | **ia** | sim | afirmação |
 | **no** | não | negação, antes do que nega (ver [Sintaxe](#-sintaxe)) |
 
@@ -606,6 +626,7 @@ Diretrizes de adaptação:
 - *Amu!* (Ame!)
 - *Ludu kon nosya amikos!* (Brinque com nossos amigos!)
 - *Donu li pano a li patrino!* (Dê o pão à mãe!)
+- *Me volen ke tu donu li pano a li patrino.* (Quero que você dê o pão à mãe.) — volitivo
 
 #### Condicional
 

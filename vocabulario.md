@@ -582,6 +582,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | leji | ler |
 | parli | falar |
 | pensi | pensar |
+| preferi | preferir |
 | respondi | responder |
 | sapi | saber |
 | sensi | sentir |
@@ -597,6 +598,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | invidi | invejar |
 | miri | olhar |
 | odi | odiar |
+| pari | parecer |
 | plori | chorar |
 | preokupi | preocupar |
 | ridi | rir |
@@ -610,6 +612,7 @@ Todos os verbos seguem a mesma conjugação (ver [Verbos](gramatica.md#-verbos))
 | Verbo | PT-BR |
 |---|---|
 | abiti | morar |
+| desperti | acordar |
 | deveni | tornar-se |
 | dormi | dormir |
 | esti | ser/estar |

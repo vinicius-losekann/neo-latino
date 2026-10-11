@@ -62,7 +62,7 @@ Traduções usadas para testar a língua na prática.
 - `De neno!` (De nada!): `de` + `neno` (nada). Saiu regular e idêntico ao românico.
 - `Kwanto to kosten?`: palavra interrogativa + SVO, com sujeito explícito (`to`).
 
-## 🔍 O que o teste revelou
+## 🔍 O que os textos 1–3 revelaram
 
 As traduções expuseram sete lacunas de gramática, já resolvidas (ver [decisoes.md](decisoes.md), P15–P18), e 26 palavras novas, já incluídas no [vocabulário](vocabulario.md).
 
@@ -77,3 +77,62 @@ As traduções expuseram sete lacunas de gramática, já resolvidas (ver [deciso
 | Particípio no início da frase | "Dotados de razão…, devem…" | permitido, separado por vírgula |
 
 Palavras criadas: egala, digna, dirito, doti, razono, konsyenso, agi, altra, espirito, norda, diskuti, envolvi, mantelo, konkordi, konsideri, tiri, sufli, furyo, desisti, brili, imediata, supera, saluto, favoro, grasyo, realo.
+
+---
+
+## 4. A manhã de Ana
+
+Texto escrito para testar o lote de roupas, profissões e emoções.
+
+**Português:**
+> Ana é médica. Toda manhã ela acorda cedo, veste uma camisa branca, uma calça azul e sapatos pretos, e vai ao hospital de ônibus. Hoje chovia, por isso ela pôs também um casaco e um chapéu.
+>
+> No ônibus, o motorista sorriu para ela:
+> — Bom dia, doutora! Você parece preocupada.
+> — Estou um pouco preocupada — respondeu Ana. — Ontem um menino chegou ao hospital com muita dor, e a mãe dele chorava de medo.
+> — E agora? Como ele está?
+> — Melhor. Hoje ele já ri e brinca com as enfermeiras.
+>
+> O motorista ficou contente:
+> — Que alegria! Meu filho também quer ser médico, mas eu prefiro que ele seja músico.
+>
+> Ana riu:
+> — Os músicos também curam: com música não há tristeza.
+
+**Neo Latino:**
+> Ana esten mediko. Tota matino la desperten preste, vesten un kamizo blanka, un pantalono blua e kalsuros nigra, e iren a li ospitalo per buso. Oje pluvin, pro to la metin anke un mantelo e un xapelo.
+>
+> In li buso, li kondukisto suridin a la:
+> — Bona dio, mediko! Tu paren preokupita.
+> — Me esten poke preokupita — respondin Ana. — Iere un infantano arivin a li ospitalo kon multe doloro, e loya patrino estin plorata pro pavoro.
+> — E ore? Kwomo lo esten?
+> — Pyu bona. Oje lo ja riden e luden kon li infermistos.
+>
+> Li kondukisto devenin kontenta:
+> — Kwa alegrezo! Meya filyano anke volen esti mediko, ma me preferen ke lo estu muzikisto.
+>
+> Ana ridin:
+> — Li muzikistos anke faren li omos sana: kon muziko, no esten tristezo.
+
+**Notas:**
+- `Ana esten mediko`: profissão sem artigo, como no português. `mediko` é agênero; `medikino` só seria usado se o gênero importasse.
+- `kalsuros nigra`: o adjetivo não vai para o plural. `kalsuro` funcionou no texto, mas soa menos familiar que "sapato".
+- `loya patrino` (a mãe dele): como `infantano` é masculino, o pronome é `lo`/`loya`. `leya` também estaria certo; `loya` só deixa claro de quem se trata.
+- `estin plorata` (chorava): o imperfeito sai com `esti` + particípio ativo, como no texto 2.
+- `pro pavoro` (de medo): `pro` (causa) resolveu bem.
+- `Pyu bona` (melhor): a língua não tem comparativos irregulares; "melhor" é "mais bom".
+- `Kwa alegrezo!` (Que alegria!): o correlativo `kwa` serviu também como exclamação, sem regra nova.
+- `li infermistos` (as enfermeiras): forma agênera. Para marcar o feminino: `infermistinos`.
+- `faren li omos sana` (curam, lit. "tornam as pessoas sãs"): causativo com `fari` + objeto + adjetivo. A língua ainda não tem o verbo "curar".
+
+**O que o teste revelou:**
+
+| Lacuna | Onde apareceu | Solução |
+|---|---|---|
+| Oração sem sujeito (clima, existência) | "chovia", "não há tristeza" | sem sujeito: `Oje pluvin`, `no esten tristezo` ([P20](decisoes.md)) |
+| Meio de transporte ou instrumento | "de ônibus" | `per buso` ([P21](decisoes.md)) |
+| Subjuntivo ("que ele seja") | "prefiro que ele seja músico" | volitivo em `-u`: `ke lo estu` ([P22](decisoes.md)) |
+| "Por isso" | "por isso ela pôs" | `pro to` (por causa disso), sem regra nova |
+| "Curar" | "os músicos curam" | por enquanto, o causativo `fari … sana`; falta um verbo próprio (`kuri` já é "correr") |
+
+Palavras criadas: desperti (acordar), pari (parecer), preferi (preferir), anke (também).
